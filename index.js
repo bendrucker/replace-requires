@@ -15,6 +15,9 @@ module.exports = function replaceRequires (code, replacements) {
     .filter(requireLiteral)
     .map(function (node) {
       return extend(node, {replacement: replacements[node.arguments[0].value]})
+    })
+    .filter(function (node) {
+      return node.replacement != null
     }))
 
 }
