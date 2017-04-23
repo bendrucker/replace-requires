@@ -22,7 +22,7 @@
     "rewrite"
   ],
   "dependencies": {
-    "detective": "~4.1.0",
+    "detective": "4.x.x",
     "has-require": "~1.2.1",
     "patch-text": "~1.0.2",
     "xtend": "~4.0.0"
