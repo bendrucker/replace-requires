@@ -1,7 +1,7 @@
 {
   "name": "replace-requires",
   "main": "index.js",
-  "version": "1.0.4",
+  "version": "1.1.0",
   "description": "Replace require statements",
   "license": "MIT",
   "repository": "bendrucker/replace-requires",
