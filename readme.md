@@ -1,4 +1,4 @@
-# replace-requires [![Build Status](https://travis-ci.org/bendrucker/replace-requires.svg?branch=master)](https://travis-ci.org/bendrucker/replace-requires)
+# replace-requires [![Build Status](https://travis-ci.org/bendrucker/replace-requires.svg?branch=master)](https://travis-ci.org/bendrucker/replace-requires) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/replace-requires.svg)](https://greenkeeper.io/)
 
 > Replace require statements
 
